@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=500&color=b8bb26&center=true&vCenter=true&width=600&duration=1500&lines=Research+%C2%B7+Systems+Thinking;NixOS+%2F+Niri+%2F+Flakes+%2F+Home+Manager;Typst+%C2%B7+R+%C2%B7++Nix)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/shaon.neocities.org-242424?style=for-the-badge&labelColor=3c3836&color=b8bb26)](https://shaon.neocities.org)
-[![YouTube](https://img.shields.io/badge/shaonbtw-242424?style=for-the-badge&logo=youtube&logoColor=fb4934&labelColor=3c3836)](https://www.youtube.com/@shaonbtw)
 
 </div>
 
