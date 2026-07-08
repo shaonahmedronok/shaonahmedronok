@@ -20,8 +20,7 @@
   <img src="https://cdn.simpleicons.org/typst/239DAE" height="60" alt="Typst logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg#gh-light-mode-only" height="60" alt="LaTeX logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="60" alt="LaTeX logo" style="filter: invert(1);" />
-  <img width="20" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS logo" />
 </div>
 
