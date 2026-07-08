@@ -26,23 +26,6 @@
 
 ###
 
-
----
-
-<div align="center">
-
-## Languages & Tools
-
-</div>
-
-<div align="center">
-
-![R](https://img.shields.io/badge/R-242424?style=for-the-badge&logo=r&logoColor=7daea3&labelColor=3c3836)
-![Typst](https://img.shields.io/badge/Typst-242424?style=for-the-badge&logo=typst&logoColor=8ec07c&labelColor=3c3836)
-![NixOS](https://img.shields.io/badge/NixOS-242424?style=for-the-badge&logo=nixos&logoColor=7daea3&labelColor=3c3836)
-
-</div>
-
 ---
 
 <div align="center">
