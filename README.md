@@ -9,8 +9,6 @@
 
 
 
-
-
 ###
 
 <h3 align="center">Languages & Tools</h3>
@@ -20,16 +18,14 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R logo" />
   <img width="20" />
-  <img src="https://raw.githubusercontent.com/typst/typst/main/assets/typst-logo.svg" height="60" alt="Typst logo" />
+  <img src="https://cdn.jsdelivr.net/gh/typst/typst@main/assets/typst-logo.svg" height="60" alt="Typst logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="60" alt="LaTeX logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="60" alt="LaTeX logo" style="background-color: #ffffff; padding: 4px; border-radius: 4px;" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS logo" />
 </div>
 
 ###
-
-
 
 
 
