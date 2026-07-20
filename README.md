@@ -30,18 +30,6 @@
 
 <div align="center">
 
-## Repos
-
-</div>
-
-| Repo | What it is |
-|------|------------|
-| [nixos-config](https://github.com/shaonahmedronok1/nixos-config) | Declarative NixOS — Flakes, Home Manager, Niri, Gruvbox color scheme, modular structure |
-| [typst-foundry](https://github.com/shaonahmedronok1/typst-foundry) | Five professional Typst templates — academic, letter, invoice, report, slides |
-| [docs](https://github.com/shaonahmedronok1/docs) | Cheatsheets for the Linux workflow |
-| [dotfiles](https://github.com/shaonahmedronok1/dotfiles) | Dotfiles and Linux program configs — every setting has a reason |
-| [assembly-index-dataset](https://github.com/shaonahmedronok1/assembly-index-dataset) | Research dataset mapping object complexity via assembly theory |
-| [website](https://github.com/shaonahmedronok1/website) | Hand-coded personal site — raw HTML, CSS, vanilla JS |
 
 → [shaon.neocities.org](https://shaon.neocities.org)
 
