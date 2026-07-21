@@ -3,7 +3,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=500&color=7daea3&center=true&vCenter=true&width=600&duration=1500&lines=LaTeX+%C2%B7+Typst+%C2%B7+R+%C2%B7++Nix;Research+%C2%B7+Systems+Thinking)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/shaon.neocities.org-e089a1?style=for-the-badge&labelColor=242424&color=242424)](https://shaon.neocities.org)
+[![Website](https://img.shields.io/badge/shaon.neocities.org-242424?style=for-the-badge&labelColor=3c3836&color=2f4858)](https://shaon.neocities.org)
 
 </div>
 
