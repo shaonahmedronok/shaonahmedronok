@@ -15,10 +15,10 @@
 <br>
 <img src="https://img.shields.io/badge/R-458588?style=flat-square&logo=r&logoColor=ebdbb2" height="44" alt="R"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LaTeX-689d6a?style=flat-square&logo=latex&logoColor=ebdbb2" height="66" alt="LaTeX"/>
+<img src="https://img.shields.io/badge/LaTeX-689d6a?style=flat-square&logo=latex&logoColor=ebdbb2" height="99" alt="LaTeX"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Typst-d79921?style=flat-square&logo=typst&logoColor=282828" height="66" alt="Typst"/>
+<img src="https://img.shields.io/badge/Typst-d79921?style=flat-square&logo=typst&logoColor=282828" height="99" alt="Typst"/>
 &nbsp;
-<img src="https://img.shields.io/badge/NixOS-458588?style=flat-square&logo=nixos&logoColor=ebdbb2" height="66" alt="NixOS"/>
+<img src="https://img.shields.io/badge/NixOS-458588?style=flat-square&logo=nixos&logoColor=ebdbb2" height="99" alt="NixOS"/>
 
 </div>
