@@ -24,9 +24,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS logo" />
 
 </div>
-
-###
----
-
-<div align="center">
-→ [shaon.neocities.org](https://shaon.neocities.org)
